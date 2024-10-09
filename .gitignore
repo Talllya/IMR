@@ -72,3 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 /Packages/*.tgz
+
+/[Aa]ssets/Vuforia/
+/[Ll]ibrary/Vuforia/
+
